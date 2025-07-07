@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/react-begine/static/js/main.293033ca.js",
+    "main.css": "/react-begine/static/css/main.2d88b788.css",
+    "main.js": "/react-begine/static/js/main.0201431d.js",
     "index.html": "/react-begine/index.html",
-    "main.293033ca.js.map": "/react-begine/static/js/main.293033ca.js.map"
+    "main.2d88b788.css.map": "/react-begine/static/css/main.2d88b788.css.map",
+    "main.0201431d.js.map": "/react-begine/static/js/main.0201431d.js.map"
   },
   "entrypoints": [
-    "static/js/main.293033ca.js"
+    "static/css/main.2d88b788.css",
+    "static/js/main.0201431d.js"
   ]
 }
